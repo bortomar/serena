@@ -1,3 +1,9 @@
+<h3>some warrnigs on main after project activate</h3>
+<p>Current official docker release is fine. For latest docker release commit see:</p>
+
+```bash
+docker run --rm  ghcr.io/oraios/serena:latest git log
+```
 <p align="center" style="text-align:center">
   <img src="resources/serena-logo.svg#gh-light-mode-only" style="width:500px">
   <img src="resources/serena-logo-dark-mode.svg#gh-dark-mode-only" style="width:500px">
